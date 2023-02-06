@@ -972,6 +972,19 @@
           }
         }
       },
+      "Manipulaê.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Manipulaê.Infraestruture": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Manipulaê.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Manipulaê.Domain.dll": {}
+        }
+      },
       "Manipulaê.Infraestruture/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -2507,6 +2520,11 @@
         "version.txt"
       ]
     },
+    "Manipulaê.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Manipulaê.Domain/Manipulaê.Domain.csproj",
+      "msbuildProject": "../Manipulaê.Domain/Manipulaê.Domain.csproj"
+    },
     "Manipulaê.Infraestruture/1.0.0": {
       "type": "project",
       "path": "../Manipulaê.Infraestruture/Manipulaê.Infraestruture.csproj",
@@ -2516,6 +2534,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "AutoMapper >= 12.0.1",
+      "Manipulaê.Domain >= 1.0.0",
       "Manipulaê.Infraestruture >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.17",
       "Swashbuckle.AspNetCore.Swagger >= 6.5.0",
@@ -2550,6 +2569,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Domain\\Manipulaê.Domain.csproj": {
+              "projectPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Domain\\Manipulaê.Domain.csproj"
+            },
             "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj": {
               "projectPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj"
             }

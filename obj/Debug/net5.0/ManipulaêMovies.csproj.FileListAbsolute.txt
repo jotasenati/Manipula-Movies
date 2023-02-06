@@ -86,3 +86,5 @@ C:\Users\Jonatas\Desktop\Teste Manipulaê\ManipulaêMovies\bin\Debug\net5.0\Micr
 C:\Users\Jonatas\Desktop\Teste Manipulaê\ManipulaêMovies\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\Jonatas\Desktop\Teste Manipulaê\ManipulaêMovies\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Jonatas\Desktop\Teste Manipulaê\ManipulaêMovies\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jonatas\Desktop\Teste Manipulaê\ManipulaêMovies\bin\Debug\net5.0\Manipulaê.Domain.dll
+C:\Users\Jonatas\Desktop\Teste Manipulaê\ManipulaêMovies\bin\Debug\net5.0\Manipulaê.Domain.pdb

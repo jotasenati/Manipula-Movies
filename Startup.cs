@@ -2,8 +2,8 @@ using AutoMapper;
 using Manipulaê.Infraestruture.ExternalServices;
 using Manipulaê.Infraestruture.Interfaces;
 using Manipulaê.Infraestruture.Interfaces.Repository;
-using Manipulaê.Infraestruture.Mapper;
 using Manipulaê.Infraestruture.Model.Context;
+using Manipulaê.Infraestruture.Parse;
 using Manipulaê.Infraestruture.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -37,8 +37,7 @@ namespace ManipulaêMovies
             services.AddDbContext<MoviesContext>(x => x.UseSqlite("Data source=ManipulaêMovies.db"));
             services.AddScoped<IYoutubeApi, YoutubeApi>();
             services.AddScoped<IMoviesRepository, MoviesRepository>();
-
-            services.AddAutoMapper(typeof(Startup));
+            services.AddScoped<IExternalMoviesParse, ExternalMoviesParse>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Manipulaê.Domain\Manipulaê.Domain.csproj" />
     <ProjectReference Include="..\Manipulaê.Infraestruture\Manipulaê.Infraestruture.csproj" />
   </ItemGroup>
 

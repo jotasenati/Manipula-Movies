@@ -34,6 +34,7 @@
       "ManipulaêMovies/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.1",
+          "Manipulaê.Domain": "1.0.0",
           "Manipulaê.Infraestruture": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "5.0.17",
           "Swashbuckle.AspNetCore.Swagger": "6.5.0",
@@ -989,6 +990,17 @@
       "System.Windows.Extensions/4.7.0": {
         "dependencies": {
           "System.Drawing.Common": "4.7.0"
+        }
+      },
+      "Manipulaê.Domain/1.0.0": {
+        "dependencies": {
+          "Manipulaê.Infraestruture": "1.0.0"
+        },
+        "runtime": {
+          "Manipulaê.Domain.dll": {}
+        },
+        "compile": {
+          "Manipulaê.Domain.dll": {}
         }
       },
       "Manipulaê.Infraestruture/1.0.0": {
@@ -3082,6 +3094,11 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "Manipulaê.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Manipulaê.Infraestruture/1.0.0": {
       "type": "project",
