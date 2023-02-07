@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2koL2jXqyjKrdDuYyW638vGVwiDJ8NZS3b9uCmbwAyFhZMYDZS7Ga20RFuo/FA4x5gTZgneFEhTuNFrBpWManw==",
+  "dgSpecHash": "l6cRNGbKPOJ+gMYUSRVc9iUH7RivuA1TG2LGdiKFj5bYxTas3S0GRdCW/6xNDg0zcOxL4jjSILe9e6zpVnF0yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\ManipulaêMovies\\ManipulaêMovies.csproj",
+  "projectFilePath": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\ManipulaêMovies\\ManipulaêMovies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonatas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Jonatas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

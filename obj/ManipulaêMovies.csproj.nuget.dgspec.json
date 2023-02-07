@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\ManipulaêMovies\\ManipulaêMovies.csproj": {}
+    "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\ManipulaêMovies\\ManipulaêMovies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Domain\\Manipulaê.Domain.csproj": {
+    "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Domain\\Manipulaê.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Domain\\Manipulaê.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Domain\\Manipulaê.Domain.csproj",
         "projectName": "Manipulaê.Domain",
-        "projectPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Domain\\Manipulaê.Domain.csproj",
+        "projectPath": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Domain\\Manipulaê.Domain.csproj",
         "packagesPath": "C:\\Users\\Jonatas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonatas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj": {
-                "projectPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj"
+              "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj": {
+                "projectPath": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj": {
+    "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj",
+        "projectUniqueName": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj",
         "projectName": "Manipulaê.Infraestruture",
-        "projectPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj",
+        "projectPath": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj",
         "packagesPath": "C:\\Users\\Jonatas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Infraestruture\\obj\\",
+        "outputPath": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Infraestruture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonatas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\ManipulaêMovies\\ManipulaêMovies.csproj": {
+    "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\ManipulaêMovies\\ManipulaêMovies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\ManipulaêMovies\\ManipulaêMovies.csproj",
+        "projectUniqueName": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\ManipulaêMovies\\ManipulaêMovies.csproj",
         "projectName": "ManipulaêMovies",
-        "projectPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\ManipulaêMovies\\ManipulaêMovies.csproj",
+        "projectPath": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\ManipulaêMovies\\ManipulaêMovies.csproj",
         "packagesPath": "C:\\Users\\Jonatas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\ManipulaêMovies\\obj\\",
+        "outputPath": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\ManipulaêMovies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonatas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,11 +180,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Domain\\Manipulaê.Domain.csproj": {
-                "projectPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Domain\\Manipulaê.Domain.csproj"
+              "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Domain\\Manipulaê.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Domain\\Manipulaê.Domain.csproj"
               },
-              "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj": {
-                "projectPath": "C:\\Users\\Jonatas\\Desktop\\Teste Manipulaê\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj"
+              "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj": {
+                "projectPath": "C:\\Users\\Jonatas\\source\\repos\\Manipula-\\Manipulaê.Infraestruture\\Manipulaê.Infraestruture.csproj"
               }
             }
           }
